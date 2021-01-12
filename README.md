@@ -1,5 +1,5 @@
 # 我的餐廳清單
-專案概要 : 提供使用者搜尋美食餐廳。
+提供使用者搜尋美食餐廳。
 
 
 ## Environment & Tools - 環境&使用工具
@@ -25,6 +25,7 @@
 
 5. 啟動專案
 > `nodemon app.js`
+> 在瀏覽器進入 http://localhost:3000
 
 
 ## Features - 產品功能
