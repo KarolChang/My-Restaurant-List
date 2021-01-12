@@ -3,10 +3,10 @@
 
 
 ## Environment & Tools - 環境&使用工具
-* [Visual Studio Code編輯器]:https://code.visualstudio.com/
-* [Node.js (v10.15.0)]:https://nodejs.org/en/
-* [Express框架]:https://www.npmjs.com/package/express
-* [handlebars模板引擎]:https://www.npmjs.com/package/express-handlebars
+* [Visual Studio Code編輯器](https://code.visualstudio.com/)
+* [Node.js (v10.15.0)](https://nodejs.org/en/)
+* [Express框架](https://www.npmjs.com/package/express)
+* [handlebars模板引擎](https://www.npmjs.com/package/express-handlebars)
 
 
 ## Installing - 專案安裝流程
