@@ -1,11 +1,11 @@
 # 我的餐廳清單
-專案概要 : 提供使用者搜尋美食餐聽。
+專案概要 : 提供使用者搜尋美食餐廳。
 
 ## Environment & Tools - 環境&使用工具
-1. Visual Studio Code編輯器
-2. Node.js (v10.15.0)
-3. Express框架
-4. handlebars模板引擎
+* Visual Studio Code編輯器
+* Node.js (v10.15.0)
+* Express框架
+* handlebars模板引擎
 
 ## Installing - 專案安裝流程
 1. 開啟終端機，執行以下指令 :
