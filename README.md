@@ -11,20 +11,20 @@
 
 ## Installing - 專案安裝流程
 1. 開啟終端機，執行以下指令 :
-> git clone https://github.com/KarolChang/My-Restaurant-List.git 
+> `git clone https://github.com/KarolChang/My-Restaurant-List.git`
 
 2. 進入專案資料夾
-> cd My-Restaurant-List
+> `cd My-Restaurant-List`
 
 3. 安裝npm & 透過npm安裝express
-> npm install
-> npm i express
+> `npm install`
+> `npm i express`
 
 4. 安裝nodemon
-> npm install -g nodemon
+> `npm install -g nodemon`
 
 5. 啟動專案
-> nodemon app.js
+> `nodemon app.js`
 
 
 ## Features - 產品功能
